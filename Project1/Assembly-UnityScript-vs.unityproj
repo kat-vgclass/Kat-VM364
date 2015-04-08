@@ -46,7 +46,9 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\_Scripts\SprayPaint.js" />
+     <Compile Include="Assets\_Scripts\Discovery.js" />
+     <Compile Include="Assets\_Scripts\FlashMap.js" />
+     <Compile Include="Assets\_Scripts\PortalScriptKitchen.js" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>/Volumes/KRISTENSEN/Kat-VM364/Project1/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
