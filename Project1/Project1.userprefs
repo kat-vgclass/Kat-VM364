@@ -1,9 +1,7 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Light_Culling.js">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Scripts/PortalScriptKitchen.js">
     <Files>
-      <File FileName="Assets/Light_Culling.js" Line="17" Column="2" />
-      <File FileName="Assets/Light_Culling.js" Line="3" Column="28" />
       <File FileName="Assets/_Scripts/PortalScriptKitchen.js" Line="1" Column="1" />
       <File FileName="Assets/_Scripts/PortalScriptKitchenHUB.js" Line="1" Column="1" />
     </Files>
