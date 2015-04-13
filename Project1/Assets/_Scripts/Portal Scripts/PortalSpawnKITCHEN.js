@@ -4,7 +4,7 @@ var makeGate = true;
 
 var gate : GameObject;
 
-function Start () {
+function OnTriggerEnter (other : Collider) {
 
 	if (makeGate == true){
 		Instantiate (gate);
@@ -12,5 +12,3 @@ function Start () {
 }
 }
 
-function Update () {
-}
