@@ -1,57 +1,25 @@
 fileFormatVersion: 2
-guid: 22cdf2ffa9eaf4f77a6d4fd15808e033
+guid: 324a174f4762f4db9a40fe268ccd332f
 ModelImporter:
   serializedVersion: 16
   fileIDToRecycleName:
-    100000: Bounding_Sofa
-    100002: left
-    100004: //RootNode
-    100006: Sofa_01
-    100008: TV_01
-    100010: Bedside_Table
-    100012: Entertainment_Center
-    100014: Lamp
-    100016: Lamp_Shade
-    100018: LightBulb
-    100020: Wick_Poly
-    400000: Bounding_Sofa
-    400002: left
-    400004: //RootNode
-    400006: Sofa_01
-    400008: TV_01
-    400010: Bedside_Table
-    400012: Entertainment_Center
-    400014: Lamp
-    400016: Lamp_Shade
-    400018: LightBulb
-    400020: Wick_Poly
-    2300000: Bounding_Sofa
-    2300002: Sofa_01
-    2300004: TV_01
-    2300006: Bedside_Table
-    2300008: Entertainment_Center
-    2300010: Lamp
-    2300012: Lamp_Shade
-    2300014: LightBulb
-    2300016: Wick_Poly
-    3300000: Bounding_Sofa
-    3300002: Sofa_01
-    3300004: TV_01
-    3300006: Bedside_Table
-    3300008: Entertainment_Center
-    3300010: Lamp
-    3300012: Lamp_Shade
-    3300014: LightBulb
-    3300016: Wick_Poly
-    4300000: Bounding_Sofa
-    4300002: Sofa_01
-    4300004: TV_01
-    4300006: Entertainment_Center
-    4300008: Bedside_Table
-    4300010: Lamp
-    4300012: LightBulb
-    4300014: Lamp_Shade
-    4300016: Wick_Poly
+    100000: Bed
+    100002: Bed_Backup
+    100004: Bed_Backup_02
+    100006: //RootNode
+    400000: Bed
+    400002: Bed_Backup
+    400004: Bed_Backup_02
+    400006: //RootNode
+    2300000: Bed
+    2300002: Bed_Backup
+    2300004: Bed_Backup_02
+    3300000: Bed
+    3300002: Bed_Backup
+    3300004: Bed_Backup_02
+    4300000: Bed
+    4300002: Bed_Backup
+    4300004: Bed_Backup_02
     9500000: //RootNode
   materials:
     importMaterials: 1
