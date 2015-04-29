@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\_Scripts\Discovery.js" />
      <Compile Include="Assets\_Scripts\LampBob.js" />
+     <Compile Include="Assets\_Scripts\PlotScripts\Flashbacks.js" />
      <Compile Include="Assets\_Scripts\PlotScripts\Scene1pt1.js" />
      <Compile Include="Assets\_Scripts\PlotScripts\Scene1pt1ALT.js" />
      <Compile Include="Assets\_Scripts\PlotScripts\Scene1pt2.js" />
