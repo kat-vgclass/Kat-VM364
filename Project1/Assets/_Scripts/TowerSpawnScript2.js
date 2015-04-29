@@ -4,8 +4,7 @@ var makeTower = true;
 
 var newTower : GameObject;
 
-var oldTower : GameObject;
-
+var nextBarrier : GameObject;
 
 
 function OnTriggerEnter (other : Collider) {
@@ -14,9 +13,8 @@ function OnTriggerEnter (other : Collider) {
 	
 		Instantiate (newTower);
 		
-		Destroy (oldTower);
+		Destroy (this.gameObject);
 		
 		makeTower = false;
 }
 }
-
