@@ -16,6 +16,10 @@ var dialogueThree : AudioClip;
 
 var dialoguePlayer : GameObject;
 
+var whorlsDestination : Transform;
+
+var redwhorls : GameObject;
+
 
 function OnTriggerEnter (other : Collider) {
 
