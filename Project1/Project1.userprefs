@@ -1,10 +1,14 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Scripts/PlotScripts/Scene4.js">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Scripts/TeleportNEXTLEVEL.js">
     <Files>
-      <File FileName="Assets/_Materials/Glow.shader" Line="1" Column="1" />
-      <File FileName="Assets/_Materials/SuperGlow.shader" Line="1" Column="1" />
-      <File FileName="Assets/_Scripts/PlotScripts/Scene4.js" Line="31" Column="25" />
+      <File FileName="Assets/_Scripts/Portal Scripts/PortalSpawnBED.js" Line="21" Column="28" />
+      <File FileName="Assets/_Scripts/PlotScripts/Scene4.js" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/PlotScripts/Scene5.js" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/PlotScripts/Scene1pt2.js" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/PlotScripts/FlameWallScript.js" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/PlotScripts/Scene6.js" Line="15" Column="29" />
+      <File FileName="Assets/_Scripts/TeleportNEXTLEVEL.js" Line="7" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

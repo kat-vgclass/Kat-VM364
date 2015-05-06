@@ -16,11 +16,15 @@ var ground : GameObject;
 
 var playerBox : GameObject;
 
-var whorls : GameObject;
+var redGlowRed : GameObject;
 
-var whorlDestination : Transform;
+var tenseMusic : GameObject;
+
+var fiveTrigger : GameObject;
 
 function OnTriggerEnter (other : Collider) {
+
+	Destroy (this.gameObject);	
 
 	dialoguePlayer.audio.PlayOneShot(dialogueFour);
 	
@@ -28,21 +32,19 @@ function OnTriggerEnter (other : Collider) {
 		
 	bryan.animation.Play("Scene4BRYANsphere");
 	
-	yield WaitForSeconds (1);
+	redMaze.transform.position =  Vector3(400, 16, 2221);
 	
-		redMaze.transform.position =  Vector3(400, 16, 2221);
+	fiveTrigger.transform.position =  Vector3(644, 37.8, 2193.3);
 		
-		whorls.transform.position = whorlDestination.position;
-		
-		Instantiate (mistGenerator);
+	Instantiate (mistGenerator);
 	
-	yield WaitForSeconds (2);
+	Instantiate (tenseMusic);
 	
-		Destroy (ground);
-
-		Destroy (this.gameObject);	
-		
-		Destroy (playerBox);
+	Destroy (ground);
+	
+	Destroy (redGlowRed);	
+	
+	Destroy (playerBox);
 
 //	plotFlag = 3;
 

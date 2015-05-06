@@ -48,16 +48,19 @@
   <ItemGroup>
      <Compile Include="Assets\_Scripts\Discovery.js" />
      <Compile Include="Assets\_Scripts\LampBob.js" />
+     <Compile Include="Assets\_Scripts\PlotScripts\FlameWallScript.js" />
      <Compile Include="Assets\_Scripts\PlotScripts\Flashbacks.js" />
      <Compile Include="Assets\_Scripts\PlotScripts\Scene1pt1.js" />
      <Compile Include="Assets\_Scripts\PlotScripts\Scene1pt1ALT.js" />
      <Compile Include="Assets\_Scripts\PlotScripts\Scene1pt2.js" />
      <Compile Include="Assets\_Scripts\PlotScripts\Scene4.js" />
      <Compile Include="Assets\_Scripts\PlotScripts\Scene5.js" />
+     <Compile Include="Assets\_Scripts\PlotScripts\Scene6.js" />
      <Compile Include="Assets\_Scripts\Portal Scripts\PortalScriptKitchen.js" />
      <Compile Include="Assets\_Scripts\Portal Scripts\PortalScriptKitchenHUB.js" />
      <Compile Include="Assets\_Scripts\Portal Scripts\PortalSpawnBED.js" />
      <Compile Include="Assets\_Scripts\Portal Scripts\PortalSpawnKITCHENLIVING.js" />
+     <Compile Include="Assets\_Scripts\Portal Scripts\TeleportNEXTLEVEL.js" />
      <Compile Include="Assets\_Scripts\TowerSpawnScript2.js" />
      <None Include="Assets\_Materials\Glow.shader" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
